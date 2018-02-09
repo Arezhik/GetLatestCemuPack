@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"shellcheck.enable": true,
+		"shellcheck.run": "onType",
+		"shellcheck.executablePath": "shellcheck",
+		"shellcheck.exclude": [],
+		"shellcheck.customArgs": [],
+		"shellcheck.useWSL": false,
+		"git.ignoreLimitWarning": true
+	}
+}
